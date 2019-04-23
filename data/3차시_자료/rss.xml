@@ -1,0 +1,3296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_05.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2019년 04월 15일 (월)요일 06:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>전라남,북도 육상 중기예보 - 2019년 04월 15일 (월)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_05.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_05.jsp</guid>
+<description>
+	<header>
+		<title>전라남,북도 육상중기예보</title>
+		<tm>201904150600</tm>
+		<wf><![CDATA[고기압의 영향으로 맑은 날이 많겠습니다. <br />기온은 평년(최저기온: 5~11℃, 최고기온: 18~22℃)과 비슷하거나 조금 높겠습니다.<br />강수량은 평년(2~6mm)보다 적겠습니다.<br />서해남부와 남해서부 해상의 물결은 22~23일 1.0~2.5m로 약간 높게 일겠고, 그 밖의 날은 0.5~2.0m로 일겠습니다.<br /><br />* 대체로 맑은 날씨가 이어지면서 대기가 매우 건조해지겠으니, 산불 등 각종 화재예방에 각별히 유의하기 바랍니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>목포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>여수</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>순천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>나주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>완도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>해남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>강진</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>장흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>고흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>보성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>장성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>담양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>화순</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>구례</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>26</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>26</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>24</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>24</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>곡성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>25</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>25</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>24</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>흑산도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>16</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>함평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>영광</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>진도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>영암</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>신안</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>무안</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-18 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-19 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-20 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-21 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2019-04-22 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-23 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-24 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2019-04-25 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
